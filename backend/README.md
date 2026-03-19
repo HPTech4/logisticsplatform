@@ -264,6 +264,7 @@ All endpoints return consistent JSON responses:
 }
 ```
 
+
 **Error:**
 
 ```json
